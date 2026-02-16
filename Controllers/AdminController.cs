@@ -10,7 +10,15 @@ namespace Project.Controllers
     [Authorize]
     public class AdminController : Controller
     {
-        EcommerceContext dbcontext = new EcommerceContext();
+       
+
+        private readonly EcommerceContext dbcontext;
+
+        public AdminController(EcommerceContext context)
+        {
+            dbcontext = context;
+
+        }
         public IActionResult Index()
         {
             return View();

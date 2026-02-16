@@ -6,7 +6,12 @@ namespace Project.Controllers
 {
     public class CartController : Controller
     {
-        EcommerceContext db = new EcommerceContext();
+        private readonly EcommerceContext db;
+
+        public CartController(EcommerceContext context)
+        {
+            db = context;
+        }
 
         public IActionResult AddToCart(int productId,int qty = 1)
         {

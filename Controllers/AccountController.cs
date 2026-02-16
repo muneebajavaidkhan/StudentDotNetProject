@@ -10,7 +10,13 @@ namespace Project.Controllers
 {
     public class AccountController : Controller
     {
-        EcommerceContext db = new EcommerceContext();
+        private readonly EcommerceContext db;
+
+        public AccountController(EcommerceContext context)
+        {
+            db = context;
+        }
+        //EcommerceContext db = new EcommerceContext();
         public IActionResult Register()
         {
             return View();
