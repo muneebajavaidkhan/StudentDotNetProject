@@ -188,7 +188,10 @@ namespace Project.Controllers
         }
 
 
-
+        public IActionResult Students()
+        {
+            return View();
+        }
 
 
         //private static List<Student> students = new List<Student>();

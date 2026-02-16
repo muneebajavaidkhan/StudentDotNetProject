@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2C12DDC5-CA07-4C52-A70A-9EC1558C295F}|Project.csproj|c:\\users\\muniba\\desktop\\dotnet(2408b3)\\project\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C12DDC5-CA07-4C52-A70A-9EC1558C295F}|Project.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2C12DDC5-CA07-4C52-A70A-9EC1558C295F}|Project.csproj|c:\\users\\muniba\\desktop\\dotnet(2408b3)\\project\\views\\cart\\cartlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2C12DDC5-CA07-4C52-A70A-9EC1558C295F}|Project.csproj|solutionrelative:views\\cart\\cartlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -61,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2C12DDC5-CA07-4C52-A70A-9EC1558C295F}|Project.csproj|c:\\users\\muniba\\desktop\\dotnet(2408b3)\\project\\models\\categoryvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C12DDC5-CA07-4C52-A70A-9EC1558C295F}|Project.csproj|solutionrelative:models\\categoryvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C12DDC5-CA07-4C52-A70A-9EC1558C295F}|Project.csproj|c:\\users\\muniba\\desktop\\dotnet(2408b3)\\project\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C12DDC5-CA07-4C52-A70A-9EC1558C295F}|Project.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C12DDC5-CA07-4C52-A70A-9EC1558C295F}|Project.csproj|c:\\users\\muniba\\desktop\\dotnet(2408b3)\\project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -146,24 +146,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CartList.cshtml",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Cart\\CartList.cshtml",
               "RelativeDocumentMoniker": "Views\\Cart\\CartList.cshtml",
               "ToolTip": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Cart\\CartList.cshtml",
               "RelativeToolTip": "Views\\Cart\\CartList.cshtml",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGQAAABlAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAkwGIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-01T04:52:11.446Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T04:33:33.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProdDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Home\\ProdDetail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ProdDetail.cshtml",
+              "ToolTip": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Home\\ProdDetail.cshtml",
+              "RelativeToolTip": "Views\\Home\\ProdDetail.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T04:57:20.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T05:24:25.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListView.cshtml",
+              "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Admin\\ListView.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ListView.cshtml",
+              "ToolTip": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Admin\\ListView.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ListView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T05:41:44.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T04:24:38.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAwwL4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T04:23:05.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "CategoryProductVM.cs",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Models\\CategoryProductVM.cs",
               "RelativeDocumentMoniker": "Models\\CategoryProductVM.cs",
@@ -175,72 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAAEAAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T04:33:33.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProdDetail.cshtml",
-              "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Home\\ProdDetail.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\ProdDetail.cshtml",
-              "ToolTip": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Home\\ProdDetail.cshtml",
-              "RelativeToolTip": "Views\\Home\\ProdDetail.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADkAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-30T04:57:20.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Models\\Cart.cs",
-              "RelativeDocumentMoniker": "Models\\Cart.cs",
-              "ToolTip": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Models\\Cart.cs",
-              "RelativeToolTip": "Models\\Cart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T05:24:25.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ListView.cshtml",
-              "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Admin\\ListView.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\ListView.cshtml",
-              "ToolTip": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Admin\\ListView.cshtml",
-              "RelativeToolTip": "Views\\Admin\\ListView.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-09T05:41:44.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Controllers\\CartController.cs",
-              "RelativeToolTip": "Controllers\\CartController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAwDEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T04:24:38.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ProdList.cshtml",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Admin\\ProdList.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\ProdList.cshtml",
@@ -248,12 +256,11 @@
               "RelativeToolTip": "Views\\Admin\\ProdList.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-18T04:18:22.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T04:18:22.056Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "_UserLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Shared\\_UserLayout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_UserLayout.cshtml",
@@ -265,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -277,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -289,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_AdminLayout.cshtml",
@@ -301,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "CategoryValidation.cs",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Models\\CategoryValidation.cs",
               "RelativeDocumentMoniker": "Models\\CategoryValidation.cs",
@@ -313,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -325,19 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "Controllers\\AdminController.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAAH4AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T04:23:05.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "EcommerceContext.cs",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Models\\EcommerceContext.cs",
               "RelativeDocumentMoniker": "Models\\EcommerceContext.cs",

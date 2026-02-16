@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2C12DDC5-CA07-4C52-A70A-9EC1558C295F}|Project.csproj|c:\\users\\muniba\\desktop\\dotnet(2408b3)\\project\\views\\admin\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C12DDC5-CA07-4C52-A70A-9EC1558C295F}|Project.csproj|solutionrelative:views\\admin\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C12DDC5-CA07-4C52-A70A-9EC1558C295F}|Project.csproj|c:\\users\\muniba\\desktop\\dotnet(2408b3)\\project\\views\\admin\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C12DDC5-CA07-4C52-A70A-9EC1558C295F}|Project.csproj|solutionrelative:views\\admin\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C12DDC5-CA07-4C52-A70A-9EC1558C295F}|Project.csproj|c:\\users\\muniba\\desktop\\dotnet(2408b3)\\project\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C12DDC5-CA07-4C52-A70A-9EC1558C295F}|Project.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2C12DDC5-CA07-4C52-A70A-9EC1558C295F}|Project.csproj|c:\\users\\muniba\\desktop\\dotnet(2408b3)\\project\\views\\cart\\cartlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2C12DDC5-CA07-4C52-A70A-9EC1558C295F}|Project.csproj|solutionrelative:views\\cart\\cartlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -63,10 +75,6 @@
       "RelativeMoniker": "D:0:0:{2C12DDC5-CA07-4C52-A70A-9EC1558C295F}|Project.csproj|solutionrelative:models\\categoryvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C12DDC5-CA07-4C52-A70A-9EC1558C295F}|Project.csproj|c:\\users\\muniba\\desktop\\dotnet(2408b3)\\project\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C12DDC5-CA07-4C52-A70A-9EC1558C295F}|Project.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2C12DDC5-CA07-4C52-A70A-9EC1558C295F}|Project.csproj|c:\\users\\muniba\\desktop\\dotnet(2408b3)\\project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C12DDC5-CA07-4C52-A70A-9EC1558C295F}|Project.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -85,10 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2C12DDC5-CA07-4C52-A70A-9EC1558C295F}|Project.csproj|c:\\users\\muniba\\desktop\\dotnet(2408b3)\\project\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2C12DDC5-CA07-4C52-A70A-9EC1558C295F}|Project.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C12DDC5-CA07-4C52-A70A-9EC1558C295F}|Project.csproj|c:\\users\\muniba\\desktop\\dotnet(2408b3)\\project\\views\\admin\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C12DDC5-CA07-4C52-A70A-9EC1558C295F}|Project.csproj|solutionrelative:views\\admin\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C12DDC5-CA07-4C52-A70A-9EC1558C295F}|Project.csproj|c:\\users\\muniba\\desktop\\dotnet(2408b3)\\project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -151,12 +155,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Student.cshtml",
+              "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Admin\\Student.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Student.cshtml",
+              "ToolTip": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Admin\\Student.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Student.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-16T04:36:58.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CartList.cshtml",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Cart\\CartList.cshtml",
               "RelativeDocumentMoniker": "Views\\Cart\\CartList.cshtml",
               "ToolTip": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Cart\\CartList.cshtml",
               "RelativeToolTip": "Views\\Cart\\CartList.cshtml",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAwwGIAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAkwGIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-01T04:52:11.446Z",
               "EditorCaption": ""
@@ -164,30 +181,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "CategoryProductVM.cs",
-              "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Models\\CategoryProductVM.cs",
-              "RelativeDocumentMoniker": "Models\\CategoryProductVM.cs",
-              "ToolTip": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Models\\CategoryProductVM.cs",
-              "RelativeToolTip": "Models\\CategoryProductVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T04:22:22.395Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAAEAAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T04:33:33.185Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "ProdDetail.cshtml",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Home\\ProdDetail.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\ProdDetail.cshtml",
@@ -199,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Cart.cs",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Models\\Cart.cs",
               "RelativeDocumentMoniker": "Models\\Cart.cs",
@@ -211,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ListView.cshtml",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Admin\\ListView.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\ListView.cshtml",
@@ -223,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CartController.cs",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "Controllers\\CartController.cs",
@@ -236,6 +229,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAwwL4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T04:23:05.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cshtml",
+              "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Admin\\Category.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Category.cshtml",
+              "ToolTip": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Admin\\Category.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Category.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T05:13:59.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T04:33:33.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Models\\CategoryProductVM.cs",
+              "RelativeDocumentMoniker": "Models\\CategoryProductVM.cs",
+              "ToolTip": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Models\\CategoryProductVM.cs",
+              "RelativeToolTip": "Models\\CategoryProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T04:22:22.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ProdList.cshtml",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Admin\\ProdList.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\ProdList.cshtml",
@@ -247,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "_UserLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Shared\\_UserLayout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_UserLayout.cshtml",
@@ -259,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -271,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -283,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_AdminLayout.cshtml",
@@ -295,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "CategoryValidation.cs",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Models\\CategoryValidation.cs",
               "RelativeDocumentMoniker": "Models\\CategoryValidation.cs",
@@ -307,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -320,18 +363,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "Controllers\\AdminController.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAAH4AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T04:23:05.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "EcommerceContext.cs",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Models\\EcommerceContext.cs",
               "RelativeDocumentMoniker": "Models\\EcommerceContext.cs",
@@ -343,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -355,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Register.cs",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Models\\Register.cs",
               "RelativeDocumentMoniker": "Models\\Register.cs",
@@ -367,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -379,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
@@ -391,19 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Category.cshtml",
-              "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Admin\\Category.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\Category.cshtml",
-              "ToolTip": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Admin\\Category.cshtml",
-              "RelativeToolTip": "Views\\Admin\\Category.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-11T05:13:59.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
@@ -415,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -427,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Admin\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\Edit.cshtml",
@@ -439,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "CatList.cshtml",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Admin\\CatList.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\CatList.cshtml",
@@ -451,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "CreateProd.cshtml",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Admin\\CreateProd.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\CreateProd.cshtml",
@@ -463,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "EditProd.cshtml",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Admin\\EditProd.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\EditProd.cshtml",
@@ -475,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -487,7 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "CreateStud.cshtml",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Admin\\CreateStud.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\CreateStud.cshtml",
@@ -499,7 +518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Models\\Order.cs",
@@ -511,7 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
@@ -523,7 +542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Student.cs",
@@ -535,7 +554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Project.csproj",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Project.csproj",
               "RelativeDocumentMoniker": "Project.csproj",
@@ -547,7 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\muniba\\Desktop\\DotNET(2408B3)\\Project\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
