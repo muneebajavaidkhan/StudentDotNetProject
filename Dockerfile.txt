@@ -3,16 +3,16 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
 # Project file copy karein
-COPY ["SecondProj.csproj", "."]
+COPY ["Project.csproj", "."]
 
 # NuGet packages restore karein (Linux environment mein)
-RUN dotnet restore "./SecondProj.csproj"
+RUN dotnet restore "./Project.csproj"
 
 # Baaki saara code copy karein
 COPY . .
 
 # Publish karein aur Windows paths ko block karein
-RUN dotnet publish "SecondProj.csproj" -c Release -o /app/out /p:RestoreFallbackFolders=""
+RUN dotnet publish "Project.csproj" -c Release -o /app/out /p:RestoreFallbackFolders=""
 
 # Runtime Stage (Linux based .NET 8 Runtime)
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
@@ -23,4 +23,4 @@ COPY --from=build /app/out .
 ENV ASPNETCORE_URLS=http://+:8080
 EXPOSE 8080
 
-ENTRYPOINT ["dotnet", "SecondProj.dll"]
+ENTRYPOINT ["dotnet", "Project.dll"]
