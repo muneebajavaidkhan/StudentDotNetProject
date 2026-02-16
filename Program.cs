@@ -5,8 +5,10 @@ var builder = WebApplication.CreateBuilder(args);
 
 //Register DB Context 
 
+//builder.Services.AddDbContext<EcommerceContext>(options =>
+//    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddDbContext<EcommerceContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 //2. // Session Add Karo for Authentication purpose
 builder.Services.AddSession(options => {
@@ -45,5 +47,13 @@ app.UseAuthorization();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider
+    .GetRequiredService<EcommerceContext>();
+    db.Database.Migrate(); // Applies pending migrations
+}
+
 
 app.Run();

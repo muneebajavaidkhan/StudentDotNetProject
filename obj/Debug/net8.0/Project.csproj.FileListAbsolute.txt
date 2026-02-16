@@ -261,3 +261,5 @@ C:\Users\muniba\Desktop\DotNET(2408B3)\Project\bin\Debug\net8.0\Microsoft.Extens
 C:\Users\muniba\Desktop\DotNET(2408B3)\Project\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\muniba\Desktop\DotNET(2408B3)\Project\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
 C:\Users\muniba\Desktop\DotNET(2408B3)\Project\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\muniba\Desktop\DotNET(2408B3)\Project\bin\Debug\net8.0\Npgsql.dll
+C:\Users\muniba\Desktop\DotNET(2408B3)\Project\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
